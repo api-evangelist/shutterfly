@@ -1,0 +1,56 @@
+{
+    "name": "Shutterfly",
+    "description": "Create photo books, personalize photo cards & stationery, and share photos with family and friends at Shutterfly.com.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/930-shutterfly.jpg",
+    "tags": [
+        "have api",
+        "photos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/shutterfly\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Shutterfly",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/930-shutterfly.jpg",
+            "humanURL": "http:\/\/www.shutterfly.com\/documentation\/start.sfly",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/shutterfly-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/shutterfly-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.shutterfly.com\/documentation\/start.sfly"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/shutterfly"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/shutterfly"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/shutterfly"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/shutterfly"
+        }
+    ]
+}
